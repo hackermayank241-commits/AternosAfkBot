@@ -2,7 +2,7 @@
 	"ip":"FRIENDPLAYSMP-Mcdc.aternos.me",
 	"port": 34501,
 	"name": "MR_MR11",
-	"auto-night-skip":"false",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register MR_MR121 MR_MR121",
 	"login-cmd":"/login MR_MR121"
